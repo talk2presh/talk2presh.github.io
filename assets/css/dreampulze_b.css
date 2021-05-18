@@ -1,0 +1,130 @@
+body
+{
+    font-family: sans-serif;
+    background-color: aliceblue;
+    background-position: center;
+}
+
+.mini_header
+{
+    background: white;
+    margin-top: 50px;
+    height: 60%;
+    margin-bottom: 30px;
+    margin: 5px solid ghostwhite;
+    padding: 10px;
+}
+
+.aside_title .definition
+{
+    padding: 5px;
+}
+
+.definition button
+{
+    margin-left: 5%;
+    border-radius: 5%;
+}
+.head_content .definition_media p b.cost
+{
+    padding-left: 5px;
+}
+
+.head_content .definition_media p b.p_status
+{
+    padding-left: 5%;
+    margin-right: 10px;
+}
+
+.head_content .definition_media p b.stat
+{
+    padding-left: 4%;
+}
+
+.head_content .definition_media p i
+{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    margin-left: 10px;
+}
+
+.definition_media u
+{
+    margin-left: 32%;
+    
+}
+
+.row .section1-header
+{
+    background-color: white;
+    padding-left: 15px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 4px;  
+}
+
+.uthertron_body
+{
+    background: white;
+    padding: 3%;
+}
+
+.uthertron_details .block_1
+{
+    background: white;
+    padding: 6%;
+    margin-bottom: 15px;
+}
+
+.uthertron_details .block_2
+{
+    background: white;
+    padding: 6%;
+    margin-bottom: 7%;
+}
+
+.feedside_1
+{
+    background: white;
+    padding: 4%;   
+}
+
+.feedside_1 p.mega_head
+{
+    margin-top: 10px;
+}
+
+.feedside_2
+{
+    background: white;
+    padding: 5%;
+}
+
+.aside p.scope
+{
+    background: white;
+    padding: 30px;
+}
+
+.aside p.guide
+{
+    background: white;
+    padding: 30px;
+}
+
+.aside p.validation
+{
+    background: white;
+    padding: 30px;
+}
+
+footer
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer d
+{
+    margin-left: 3%;
+}

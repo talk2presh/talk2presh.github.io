@@ -1,0 +1,37 @@
+*
+{
+    margin: 0px;
+}
+
+body
+{
+    font-family: sans-serif;
+    background-color: aliceblue;
+    background-position: center;
+    
+}
+
+.media_block
+{
+    background: white;
+    margin-top: 30px;
+    padding: 15px;
+}
+
+.col-2-sm
+{
+    background: rgb(231, 109, 231);
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+section b
+{
+    padding-left: 30px;
+}
+
+.media_block .button
+{
+    margin-top: 35px;
+}
